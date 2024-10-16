@@ -4,7 +4,7 @@
   "private": true,
   "dependencies": {
     "@fluentui/merge-styles": "^8.0.3",
-    "@fluentui/react": "^7.155.3",
+    "@fluentui/react": "^7.204.0",
     "@fluentui/react-hooks": "^8.2.0",
     "@fluentui/react-theme-provider": "^0.18.5",
     "@microsoft/applicationinsights-react-js": "^3.1.4",
